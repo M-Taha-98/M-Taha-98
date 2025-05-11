@@ -1,8 +1,4 @@
-<div align="center">
-
-## Hi there 👋 This is Mohammad Taha
-
-</div>
+<h1 align="center">Hi there 👋 This is Mohammad Taha</h1>
 
 <h3 align="center"><strong>< Data Analyst ></strong></h3>
 

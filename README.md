@@ -4,7 +4,7 @@
 
 </div>
 
-<p align="center"><strong>< Data Analyst ></strong></p>
+<h3 align="center"><strong>< Data Analyst ></strong></h3>
 
 ### About me 🙋🏻‍♂️<br>
 I'm passionate about using data to uncover insights and support strategic decision-making. My expertise lies in:

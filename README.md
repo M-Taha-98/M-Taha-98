@@ -15,13 +15,13 @@
 </div>
 
 ### About me 🙋🏻‍♂️<br>
----
+
 I'm passionate about using data to uncover insights and support strategic decision-making. My expertise lies in:
 
 - <img src="https://i.postimg.cc/MHfnc485/Chat-GPT-Image-May-11-2025-06-45-25-PM.png" alt="Data Analysis & Visualization" width="20" height = "20"/> Data Analysis and Visualization
 
 ### Languages and Tools:
----
+
 
 <table width="340px" align="center">
     <tbody>
@@ -63,7 +63,7 @@ I'm passionate about using data to uncover insights and support strategic decisi
 </table>
 
 ### Github Streak:
----
+
 <p align="center">
     <a href="https://github.com/M-Taha-98/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="M-Taha-98's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=M-Taha-98&theme=dark&border_radius=5.1"/>
@@ -72,13 +72,13 @@ I'm passionate about using data to uncover insights and support strategic decisi
 
 
 ### Github Stats:
----
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=M-Taha-98&show_icons=true&theme=dark"/>
 </div>
 
 ### Contribution Graph:
----
+
 <br/>
 <br/>
 

@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/mohammadtaha-businessanalytics/" style="text-decoration: none;">
     <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge">
   </a>&nbsp;
-  <a href="https://www.kaggle.com/mohammadtaha2024">
+  <a href="https://www.kaggle.com/mohammadtaha2024/code">
     <img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-lightblue?style=for-the-badge">
   </a>&nbsp;
-  <a href="https://medium.com/@mohammad.taha158">
+  <a href="https://medium.com/me/stories/public">
     <img alt="Static Badge" src="https://img.shields.io/badge/Medium-black?style=for-the-badge">
   </a>&nbsp;
 </div>

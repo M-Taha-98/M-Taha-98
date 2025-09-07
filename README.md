@@ -16,9 +16,9 @@
 
 ### About me 🙋🏻‍♂️<br>
 
-I'm passionate about using data to uncover insights and support strategic decision-making. My expertise lies in:
+Data-driven professional skilled in transforming raw data into actionable insights that derive business decisions. Proficient in key data analytics tools for data cleaning, visualization, descriptive and diagnostic analysis. My expertise lies in:
 
-- <img src="https://i.postimg.cc/MHfnc485/Chat-GPT-Image-May-11-2025-06-45-25-PM.png" alt="Data Analysis & Visualization" width="20" height = "20"/> Data Analysis and Visualization
+- <a href="https://freeimage.host/i/KonkxUB"><img src="https://iili.io/KonkxUB.md.png" alt="KonkxUB.md.png" width="30" height = "30" border="0"></a> Data Analysis and Visualization
 
 ### Languages and Tools:
 
@@ -45,7 +45,7 @@ I'm passionate about using data to uncover insights and support strategic decisi
         <tr valign="top">     
             <td width="80px" align="center">
             <span><strong>Matplotlib</strong></span><br>
-            <img height="32px" src="https://i.postimg.cc/Fs2QQVVj/pngaaa-com-4152242.png">
+            <img height="32px" src="https://iili.io/KonLZ2n.png" alt="KonLZ2n.png" width="35" height = "35" border="0">
             <td width="80px" align="center">
             <span><strong>Seaborn</strong></span><br>
             <img height="32px" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg">

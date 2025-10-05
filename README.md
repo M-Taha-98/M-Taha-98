@@ -12,6 +12,12 @@
   <a href="https://medium.com/me/stories/public">
     <img alt="Static Badge" src="https://img.shields.io/badge/Medium-black?style=for-the-badge">
   </a>&nbsp;
+    <a href="https://www.upwork.com/freelancers/~01158dbad6fc20cf59">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Upwork-black?style=for-the-badge">
+  </a>&nbsp;
+    <a href="https://www.fiverr.com/taha_mohammad?public_mode=true">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Fiverr-green haze?style=for-the-badge">
+  </a>&nbsp;
 </div>
 
 ### About me 🙋🏻‍♂️<br>
